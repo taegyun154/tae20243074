@@ -23,7 +23,7 @@ h : 도움말
 H : 스레드 토글
 
 i : 유휴 프로세스 토콜
-![Uploading 다운로드.png…]()
+![image](https://github.com/taegyun154/tae20243074/assets/171492881/d006f19b-2859-42ac-b27f-4a92aa64f107)
 
 3. ps
 
