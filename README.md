@@ -23,6 +23,9 @@ h : 도움말
 H : 스레드 토글
 
 i : 유휴 프로세스 토콜
+
+top 명령어 실행 예시
+
 ![image](https://github.com/taegyun154/tae20243074/assets/171492881/d006f19b-2859-42ac-b27f-4a92aa64f107)
 
 3. ps
@@ -53,6 +56,12 @@ a (BSD) 터미널과 연관된 프로세스를 출력, x 옵션과 같이 사용
 
 -r 현재 실행 중인 프로세스 출력
 
+자주 사용되는 명령어 
+
+-ef
+
+![image](https://github.com/taegyun154/tae20243074/assets/171492881/03ceeece-80f4-4769-8005-e2d1e89088c4)
+
 5. jobs
 
 jobs 명령어는 작업의 상태를 표시하는 명령어이다.
@@ -66,4 +75,14 @@ jobs 명령어는 작업의 상태를 표시하는 명령어이다.
 -p 각 프로세스 ID에 대헤 한 행씩 출력
 
 command 지정한 명령어를 실행
+
+7. Kill
+
+kill 명령어는 대개 프로세스를 죽일 때 사용합니다. 하지만 내부적으로는 프로세스에 시그널을 보내 원하는 작업을 하게 하는 명령어입니다. 이 툴을 사용하려면 다음 구문을 사용합니다.
+
+8. kill 프로세스 죽이는법
+
+$kill [pid}
+
+![image]<img width="410" alt="img1 daumcdn" src="https://github.com/taegyun154/tae20243074/assets/171492881/41727fdc-2aa4-4ebc-a5f6-73496823fd82">
 
